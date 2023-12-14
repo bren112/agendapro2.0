@@ -13,6 +13,7 @@ function routes() {
             <Header/>
                 <Routes>
                     <Route path="/" element={<Container />} />
+                    <Route path="/ROTADETESTE" element={<Container />} />
                     <Route path="/adm" element={<Adm />} />
                     <Route path="/cliente" element={<Cliente />} />
                     <Route path="/cliente" element={<Cliente />} />
